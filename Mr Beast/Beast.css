@@ -1,0 +1,141 @@
+
+
+
+
+.middle{
+    text-align: center;
+}
+
+
+
+.body{
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+    background-image: url(backgroundd.png);
+    background-position: center;
+    background-size: cover;
+}
+
+.body2{
+       background-color: rgb(255, 255, 255);
+    background-image: url(backgroundd.png);
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+    grid-area: 1 / 1;
+    display: grid;
+}
+
+.h1{
+   border-style: dotted;
+    border-color: rgb(118, 162, 238);
+    border-radius: 10px;
+    text-shadow: 5px 5px 5px rgb(255, 255, 255);
+    color: rgb(0, 94, 255);
+    font-size: 25px;
+    background-image: url(Background.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover; 
+    text-align: center;
+}
+
+
+
+ .text-row{        
+  margin-left: auto;
+  margin-right: auto;
+  
+
+        }
+
+
+.p{
+    font-size: 18px;
+    color: rgb(0, 64, 241);
+     font-family: "Bebas Neue", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  text-shadow: 5px 5px 5px rgb(88, 143, 205);
+  list-style-position: inside;
+
+    
+}
+
+
+.p2{
+  font-size: 18px;
+  text-align: center;
+  font-family: "Bebas Neue", sans-serif;
+  color: rgb(0, 0, 233);
+  text-shadow: 5px 5px 5px rgb(189, 199, 230);
+  list-style-position: inside;
+}
+
+
+.p3{
+    font-size: 23px;
+    color: rgb(0, 64, 241);
+     font-family: "Bebas Neue", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  text-shadow: 5px 5px 5px rgb(88, 143, 205);
+  list-style-position: inside;
+}
+
+
+
+
+
+.center{
+     display: block;
+  margin: 0 auto;
+}
+
+
+
+
+
+
+.button{
+   text-align: right;
+    padding: 5px 50px;
+border-radius: 40px;
+border-style:dotted;
+border-color: rgb(37, 54, 123);
+float: left;
+font-size: 30px;
+  font-family: "Bebas Neue", sans-serif;
+  background-color: rgb(122, 184, 255);
+  display: flex;
+  
+}
+
+
+
+
+
+.button2{
+  text-align: left;
+    padding: 5px 50px;
+border-radius: 40px;
+border-style:dotted;
+border-color: rgb(37, 54, 123);
+float: right;
+font-size: 30px;
+  font-family: "Bebas Neue", sans-serif;
+  background-color: rgb(122, 184, 255) ;
+  display: flex;
+  
+
+ 
+
+}
+
+
+.dotcenter{
+  list-style-position: inside;
+
+}
+
+ 
